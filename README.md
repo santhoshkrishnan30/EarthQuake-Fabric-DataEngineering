@@ -2,6 +2,9 @@
 ## Project Overview
 Learn to build an end to end data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences. 
 
+![image](https://github.com/user-attachments/assets/3ef0478b-7714-421f-85c8-fa19dac59579)
+
+
 Ingesting Earthquake events data from [usgs](https://earthquake.usgs.gov/). 
 
 Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
